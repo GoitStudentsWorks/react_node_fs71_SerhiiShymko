@@ -2,7 +2,7 @@
   "name": "Goose-Track-06-Frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://SerhiiShymko/Goose-Track-06-Frontend/",
+  "homepage": "https://GoitStudentsWorks/react_node_fs71_SerhiiShymko/",
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@emotion/react": "^11.11.1",
