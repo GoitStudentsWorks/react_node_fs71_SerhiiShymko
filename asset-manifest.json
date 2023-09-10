@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_node_fs71_SerhiiShymko/static/css/main.5d4c55a7.css",
-    "main.js": "/react_node_fs71_SerhiiShymko/static/js/main.b45622d1.js",
+    "main.js": "/react_node_fs71_SerhiiShymko/static/js/main.c74f8017.js",
     "static/css/989.c6fae1af.chunk.css": "/react_node_fs71_SerhiiShymko/static/css/989.c6fae1af.chunk.css",
     "static/js/989.65b86daa.chunk.js": "/react_node_fs71_SerhiiShymko/static/js/989.65b86daa.chunk.js",
     "static/js/837.4ace3898.chunk.js": "/react_node_fs71_SerhiiShymko/static/js/837.4ace3898.chunk.js",
@@ -83,7 +83,7 @@
     "static/media/leftArrow.svg": "/react_node_fs71_SerhiiShymko/static/media/leftArrow.419843934514a4ec72e12d89da762d2a.svg",
     "static/media/addTask.svg": "/react_node_fs71_SerhiiShymko/static/media/addTask.2edf159d8492b21a190115e0e00e46da.svg",
     "main.5d4c55a7.css.map": "/react_node_fs71_SerhiiShymko/static/css/main.5d4c55a7.css.map",
-    "main.b45622d1.js.map": "/react_node_fs71_SerhiiShymko/static/js/main.b45622d1.js.map",
+    "main.c74f8017.js.map": "/react_node_fs71_SerhiiShymko/static/js/main.c74f8017.js.map",
     "989.c6fae1af.chunk.css.map": "/react_node_fs71_SerhiiShymko/static/css/989.c6fae1af.chunk.css.map",
     "989.65b86daa.chunk.js.map": "/react_node_fs71_SerhiiShymko/static/js/989.65b86daa.chunk.js.map",
     "837.4ace3898.chunk.js.map": "/react_node_fs71_SerhiiShymko/static/js/837.4ace3898.chunk.js.map",
@@ -107,6 +107,6 @@
   },
   "entrypoints": [
     "static/css/main.5d4c55a7.css",
-    "static/js/main.b45622d1.js"
+    "static/js/main.c74f8017.js"
   ]
 }
